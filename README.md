@@ -40,8 +40,8 @@ Se creó un bot que podía obtener los links de los archivos
 '.json' que aportaba la API, la complicación y el uso de Selenium tienen que ver con este proceso ya que la API sólo proporcionaba la información en lapsos de 31 días como máximo y te exigía validar el link (el cual tenía una caducidad de unos minutos) para poder obtener los .json , que posteriormente se exportaron a diferentes archivos '.csv' los cuales se unieron en uno sólo a través de pandas.
 ## Conclusiones
 
-![](/img/2.jpeg)
+![](/img/2.png)
 
-![](/img/1.jpeg)
+![](/img/1.png)
 
-![](/img/3.jpeg)
+![](/img/3.png)
